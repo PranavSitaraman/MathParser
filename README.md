@@ -1,1 +1,1 @@
-# MathParser
+# Math Expression Parser in C++
