@@ -1,5 +1,6 @@
 #include <iostream>
 #include <list>
+#include <cmath>
 using namespace std;
 struct value
 {
