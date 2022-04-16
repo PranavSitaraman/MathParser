@@ -7,7 +7,7 @@ struct value
 	float num;
 	bool type;
 };
-void mathparserrun()
+int main()
 {
 	list<value> in, top;
 	char ord[255] = { 0 }; ord['^'] = 3; ord['/'] = 2; ord['*'] = 2; ord['%'] = 2; ord['+'] = 1; ord['-'] = 1;
